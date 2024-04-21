@@ -3,17 +3,17 @@ This analysis is based on a study where 249 mice who were identified with SCC tu
 
 This challenge involves the following tasks:
 
-- Prepare the data.
+- Preparing the data.
    
-- Generate summary statistics.
+- Generating summary statistics.
    
-- Create bar charts and pie charts.
+- Creating bar charts and pie charts.
    
-- Calculate quartiles, find outliers, and create a box plot.
+- Calculating quartiles, find outliers, and create a box plot.
    
-- Create a line plot and a scatter plot.
+- Creating a line plot and a scatter plot.
    
-- Calculate correlation and regression.
+- Calculating correlation and regression.
    
 - Submitting the final analysis.
 
