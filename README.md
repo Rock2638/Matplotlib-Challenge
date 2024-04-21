@@ -9,7 +9,7 @@ This challenge involves the following tasks:
    
 - Creating bar charts and pie charts.
    
-- Calculating quartiles, find outliers, and create a box plot.
+- Calculating quartiles, finding outliers, and creating a box plot.
    
 - Creating a line plot and a scatter plot.
    
